@@ -1,0 +1,22 @@
+{
+  "name": "paperplay",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CosmicCoder96/PaperPlay.git"
+  },
+  "author": "CosmicCoder96",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CosmicCoder96/PaperPlay/issues"
+  },
+  "homepage": "https://github.com/CosmicCoder96/PaperPlay#readme",
+  "dependencies": {
+    "paper": "^0.11.5"
+  }
+}
